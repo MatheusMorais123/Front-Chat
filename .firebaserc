@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "chatdevzapp"
+  },
+  "targets": {
+    "chatdevzapp": {
+      "hosting": {
+        "prod": [
+          "devchatadm"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
